@@ -18,7 +18,7 @@ chmod 777 run_syn.sh(maybe not needed)
 
 ./run_syn.sh 
 
-BP  with C++ can be run in the file JSB_MC++ with command:
+BP  with C++ can be run in the file JSBM_C++ with command:
 
 ./test1.sh
 
